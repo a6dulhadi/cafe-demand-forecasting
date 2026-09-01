@@ -1,5 +1,5 @@
 
-# Cafe Menu Demand Forecasting System
+# Cafe Menu Demand Forecasting System, QT Cafe
 
 A web-based decision support system developed in collaboration 
 with a local cafe business to help owners forecast menu item 
@@ -40,4 +40,4 @@ Universiti Selangor (UNISEL), 2026
 
 ## Client
 Developed in collaboration with a local cafe business as an 
-actual client
+actual client,QT Cafe
